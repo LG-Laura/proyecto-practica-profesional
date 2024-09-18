@@ -10,8 +10,8 @@
 **Sonata Musical** Este proyecto fue concebido como una plataforma de e-commerce con el objetivo de facilitar y agilizar las ventas de la empresa en un solo lugar, de manera efectiva. La idea es ofrecer una solución que permita gestionar las ventas de forma centralizada, brindando una experiencia de usuario atractiva, intuitiva y fácil de usar. Con Sonata Musical, se busca optimizar los procesos de compra, simplificar la interacción del usuario con la plataforma y asegurar una navegación fluida y agradable, haciendo que todo el proceso de adquisición de instrumentos musicales sea más eficiente y accesible.
 
 
-- **Frontend:**
-<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> Tecnologías y herramientas
+# Frontend:
+<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> Tecnologías y herramientas utilizadas.
 
 <div align="center">
 
