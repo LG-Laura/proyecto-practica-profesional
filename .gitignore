@@ -1,1 +1,45 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Environment variables
+.env
+
+# Compiled files and folders
+dist/
+build/
+out/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage directory for test results
+coverage/
+
+# Optional if using Webpack
+.cache/
 
