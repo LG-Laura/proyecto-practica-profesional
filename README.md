@@ -1,13 +1,12 @@
 <p align="center" style="font-size: 24px;">
   <strong>🚧Este proyecto está actualmente en fase de desarrollo.</strong><br>
-</p>
 
-# Sonata🎶🎸
----
+  # Sonata🎶🎸
+</p>
 
 ## Descripción del Proyecto
 
-**Sonata Musical** Este proyecto fue concebido como una plataforma de e-commerce con el objetivo de facilitar y agilizar las ventas de la empresa en un solo lugar, de manera efectiva. La idea es ofrecer una solución que permita gestionar las ventas de forma centralizada, brindando una experiencia de usuario atractiva, intuitiva y fácil de usar. Con Sonata Musical, se busca optimizar los procesos de compra, simplificar la interacción del usuario con la plataforma y asegurar una navegación fluida y agradable, haciendo que todo el proceso de adquisición de instrumentos musicales sea más eficiente y accesible.
+Este proyecto pensado como una plataforma de e-commerce con el objetivo de facilitar y agilizar las ventas online, de manera efectiva. La idea es ofrecer una solución que permita gestionar las ventas de forma centralizada, brindando una experiencia de usuario atractiva, intuitiva y fácil de usar. Con Sonata Musical, se busca optimizar los procesos de compra, simplificar la interacción del usuario con la plataforma y asegurar una navegación fluida y agradable, haciendo que todo el proceso de adquisición de instrumentos musicales sea más eficiente y accesible.
 
 
 # Frontend:
